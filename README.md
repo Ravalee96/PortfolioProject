@@ -11,7 +11,7 @@
     <p>Data Analyst | Marketing Analytics | Healthcare Insights</p>
     <nav>
       <a href="/">Home</a> |
-      <a href="/case-studies/">Case Studies</a> |
+      <a href="/Case Studies/">Case Studies</a> |
       <a href="/resume/">Resume</a> |
       <a href="/contact/">Contact</a>
     </nav>
