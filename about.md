@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: About Me
+---
 # About Me
 
 Hi, I'm Ravalee Kanthi, a data analyst passionate about transforming data into actionable insights. I specialize in Healthcare sector market research data.
